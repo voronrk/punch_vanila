@@ -1,0 +1,32 @@
+label.checkbox {
+    display:block;
+    width:100%;
+    padding:2px 0;
+}
+
+input[type="checkbox"] {
+    margin-right:4px;
+}
+
+.field-wrapper-small {
+    max-height:100px;
+    overflow-y: scroll;
+}
+
+.field-wrapper-full {
+    max-height:100%;
+}
+
+.field-view-more {
+    cursor:pointer;
+}
+
+.filter {
+    overflow-y:scroll;
+    max-height:90vh;
+}
+
+.card-image {
+    max-height:100% !important;
+    width: auto !important;
+}
