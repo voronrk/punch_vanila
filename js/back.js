@@ -76,18 +76,15 @@ export const getBase = () => {
             calc: '',
 
             filter(arFilter) {
-                let filter = false;
+                let filter = true;
                 if (Object.keys(arFilter).length==0) {
                     filter=true;
                 } else {
                     for (let key in arFilter){
-                        console.log(this);
-                        if (arFilter[key].indexOf(this[key])>-1) {
-                            filter=true;
-                        }
+                        filter = filter && (arFilter[key].indexOf(this[key])>-1)
                     };
+
                 };
-                console.log(filter);
                 return filter;
             }            
         };        
