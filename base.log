@@ -1,0 +1,72 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [name] => Этикетка круглая
+            [product] => Этикетки
+            [ordernum] => 0699
+            [year] => 2019
+            [sizelength] => 66.5
+            [sizewidth] => 0
+            [sizeheight] => 0
+            [knifesizelength] => 296
+            [knifesizewidth] => 197
+            [machines] => Array
+                (
+                    [0] => ML
+                )
+
+            [materials] => Array
+                (
+                    [0] => Бумага
+                )
+
+            [products] => Array
+                (
+                    [0] => Этикетки
+                )
+
+            [pics] => Array
+                (
+                    [0] => Э-К-2-1.png
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 7
+            [name] => Коробка прямоугольная
+            [product] => Коробки
+            [ordernum] => 6230
+            [year] => 2019
+            [sizelength] => 120
+            [sizewidth] => 120
+            [sizeheight] => 336
+            [knifesizelength] => 829
+            [knifesizewidth] => 603
+            [machines] => Array
+                (
+                    [0] => ПТ
+                )
+
+            [materials] => Array
+                (
+                    [0] => Картон
+                )
+
+            [products] => Array
+                (
+                    [0] => Коробки
+                )
+
+            [pics] => Array
+                (
+                    [0] => КР-К-1-1.png
+                )
+
+        )
+
+)
+

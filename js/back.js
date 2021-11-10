@@ -1,4 +1,4 @@
-export const getBase = () => {
+export const getBase_ = () => {
 
     let arData = [];
 
@@ -20,7 +20,7 @@ export const getBase = () => {
         Б: 'Бумага',
         П: 'Переплетные материалы',
     };
-    const machines = ['ПТ', 'МЛ', 'STS'];
+    const machines = ['ПТ', 'ML', 'STS'];
     const pics = ['БР-К-1-1.png',
                   'БР-К-2-2.png',
                   'КН-Б-2-3.png',
@@ -92,4 +92,65 @@ export const getBase = () => {
     });
 
     return arData;
+};
+
+export async function savePunch(arPunch) {
+    const data={'mtd': 'savePunch', 'data': arPunch};
+    const response = await fetch ('back.php', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(data)
+    });
+    return await response.json();
+};
+
+export async function getBase() {
+    const data={'mtd': 'getBase'};
+    const response = await fetch ('back.php', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(data)
+    });
+    return await response.json();
+};
+
+export class Punch {
+    constructor (data) {
+        this.name = data['name'] ? data['name'] : '';
+        this.year = data['year'] ? data['year'] : '';
+        this.orderNum = data['ordernum'] ? data['ordernum'] : '';
+        this.materials = data['materials'] ? data['materials'] : '';
+        this.machines = data['machines'] ? data['machines'] : '';
+        this.knifeSizeWidth = data['knifesizewidth'] ? data['knifesizewidth'] : '';
+        this.knifeSizeLength = data['knifesizelength'] ? data['knifesizelength'] : '';
+        this.products = data['products'] ? data['products'] : '';
+        this.sizeWidth = data['sizewidth'] ? data['sizewidth'] : '';
+        this.sizeLength = data['sizelength'] ? data['sizelength'] : '';
+        this.sizeHeight = data['sizeheight'] ? data['sizeheight'] : '';
+        this.pics = data['pics'] ? data['pics'] : '';
+        this.pdf = data['pdf'] ? data['pdf'] : '';
+        this.calc = data['calc'] ? data['calc'] : '';
+    };
+    
+
+    filter(arFilter) {
+        let filter = true;
+        if (Object.keys(arFilter).length==0) {
+            console.log('nofilter');
+            return true;
+        };
+        for (let key in arFilter){
+            if ((typeof(this[key])=='string') || (typeof(this[key])=='number')){
+                filter = filter && (arFilter[key].indexOf(this[key])>-1)
+            };
+            if (typeof(this[key])=='object') {
+                let filterTmp = false;
+                for (let i=0;i<arFilter[key].length;i++) {
+                    filterTmp = filterTmp || (arFilter[key][i].indexOf(this[key])>-1);
+                };
+                filter = filter && filterTmp;
+            };
+        };
+        return filter;
+    }            
 };

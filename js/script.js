@@ -1,6 +1,6 @@
 'use strict';
 
-import {getBase} from './back.js';
+import {getBase, Punch} from './back.js';
 
 const viewMoreToggle = document.querySelectorAll('.field-view-more');
 const form = document.querySelector('#filter');
@@ -9,14 +9,22 @@ const modal = document.querySelector('#modal');
 const allCards = document.querySelectorAll('.box');
 const cardsWrapper = document.querySelector('#cards-wrapper');
 
-const arData = getBase();
-
 let arForm = [];
 let arFilter = {};
+let arData = [];
 cardsWrapper.innerHTML = '';
 
-form.reset();
-renderCards(arData, arFilter);
+getBase()
+.then(data => {
+    console.log(data);
+    data.forEach(item => {
+        arData.push(new Punch(item));
+    });
+    console.log(arData);
+    form.reset();
+    renderCards(arData, arFilter);
+});
+
 
 function renderCards(arData, arFilter) {
     cardsWrapper.innerHTML = '';
@@ -35,7 +43,7 @@ function renderCard(data, arFilter) {
             <article class="media">
                 <figure class="media-left">
                     <div class="image is-128x128">
-                        <img class="card-image" src="${data.pic}">
+                        <img class="card-image" src="pic/${data.pics[0]}">
                     </div>
                 </figure>
                 <div class="media-content">
@@ -44,8 +52,8 @@ function renderCard(data, arFilter) {
                         <strong>${data.name}</strong>
                         <br> Заказ № ${data.orderNum}/${data.year}
                         <br> ${data.sizeWidth}х${data.sizeLength}х${data.sizeHeight} мм
-                        <br> Материал - ${data.materials}
-                        <br> Машина - ${data.machine}
+                        <br> Материал - ${data.materials[0]}
+                        <br> Машина - ${data.machines[0]}
                         </p>
                     </div>
                 </div>
@@ -88,14 +96,21 @@ allInputs.forEach(element => {
             renderCards(arData, arFilter);
         });
     };
-    if (element.type=='text') {
+    if ((element.type=='text') || (element.type=='number')) {
         element.addEventListener('input', () => {
-            arFilter[element.id] = [element.value];
+            if ((element.value=='') || (element.value==0)) {
+                delete arFilter[element.id];
+            } else {
+                if (element.type=='text') {
+                    arFilter[element.id] = [element.value];
+                } else {
+                    arFilter[element.id] = [+element.value];
+                };
+            };
             console.log(arFilter);
             renderCards(arData, arFilter);
         });
     };
-    
 });
 
 modal.addEventListener('click', (event) => {

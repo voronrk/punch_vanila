@@ -1,0 +1,5936 @@
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => Э-К-2-1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => КР-К-1-1.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+6
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 2.png
+        )
+
+)
+
+6
+Array
+(
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 2
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => ПТ
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => ML
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => STS
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 3
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Картон
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Гофрокартон
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Бумага
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Переплетные материалы
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 13
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 1
+        )
+
+)
+
+7
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [value] => Коробки
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [value] => Обечайки
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [value] => Открытки
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [value] => Папки
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [value] => Пакеты
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [value] => Футляры
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [value] => Буклеты
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [value] => Обложки
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [value] => Конверты
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [value] => Рубрикаторы
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [value] => Бирки
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [value] => Хангеры
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [value] => Этикетки
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [punch] => 6
+            [value] => 1.png
+        )
+
+    [1] => Array
+        (
+            [punch] => 7
+            [value] => 2.png
+        )
+
+)
+
+7
+Array
+(
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => 1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => 2.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => 1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => 2.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+
+Array
+(
+    [0] => ML
+)
+
+Array
+(
+    [0] => Бумага
+)
+
+Array
+(
+    [0] => Этикетки
+)
+
+Array
+(
+    [0] => Э-К-2-1.png
+)
+
+Array
+(
+    [0] => ПТ
+)
+
+Array
+(
+    [0] => Картон
+)
+
+Array
+(
+    [0] => Коробки
+)
+
+Array
+(
+    [0] => КР-К-1-1.png
+)
+

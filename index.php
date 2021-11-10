@@ -1,3 +1,11 @@
+<?php
+    include_once "includes/functions.php";
+
+	// $users_count = db_query("SELECT COUNT(id) FROM `users`; ")->fetchColumn();
+	// $views_count = db_query("SELECT SUM(`views`) FROM `links`; ")->fetchColumn();
+	// $links_count = db_query("SELECT COUNT(id) FROM `links`; ")->fetchColumn();
+?>
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -12,8 +20,19 @@
     <title>Каталог штанц-форм</title>
 </head>
 <body>
-    <section class="section">
     <div class="container">
+      <nav class="navbar">
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <div class="buttons">
+              <a class="button is-primary">
+                <strong>Войти</strong>
+              </a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    <section class="section">
         <div class="columns">
             <div class="column is-2 filter">
                 <form class="form" id="filter">
@@ -21,19 +40,11 @@
                     <div class="field" id="products">
                         <label class="label">Виды продукции</label>
                         <div class="field-wrapper-small">
-                            <label class="checkbox"><input type="checkbox" id="Коробка">Коробки</label>
-                            <label class="checkbox"><input type="checkbox" id="Обечайка">Обечайки</label>
-                            <label class="checkbox"><input type="checkbox" id="Открытка">Открытки</label>
-                            <label class="checkbox"><input type="checkbox" id="Папка">Папки</label>
-                            <label class="checkbox"><input type="checkbox" id="Пакет">Пакеты</label>
-                            <label class="checkbox"><input type="checkbox" id="Футляр">Футляры</label>
-                            <label class="checkbox"><input type="checkbox" id="Буклет">Буклеты</label>
-                            <label class="checkbox"><input type="checkbox" id="Обложка">Обложки</label>
-                            <label class="checkbox"><input type="checkbox" id="Конверт">Конверты</label>
-                            <label class="checkbox"><input type="checkbox" id="Рубрикатор">Рубрикаторы</label>
-                            <label class="checkbox"><input type="checkbox" id="Бирка">Бирки</label>
-                            <label class="checkbox"><input type="checkbox" id="Хангер">Хангеры</label>
-                            <label class="checkbox"><input type="checkbox" id="Этикетка">Этикетки</label>
+                        <?php
+                            $products = db_query("SELECT * FROM `products`; ");
+                            while($product = $products->fetch()) {?>
+                                <label class="checkbox"><input type="checkbox" id="<?php echo $product['value']?>"><?php echo $product['value']?></label>
+                            <?php }; ?>
                         </div>
                         <div class="field-view-more is-size-7 has-text-info">Показать еще</div>
                     </div>
@@ -41,20 +52,23 @@
                     <div class="field" id="materials">
                         <label class="label">Виды материалов</label>
                         <div class="field-wrapper-small">
-                            <label class="checkbox"><input type="checkbox" id="Картон">Картон</label>
-                            <label class="checkbox"><input type="checkbox" id="Гофрокартон">Гофрокартон</label>
-                            <label class="checkbox"><input type="checkbox" id="Бумага">Бумага</label>
-                            <label class="checkbox"><input type="checkbox" id="Переплетные материалы">Переплетные материалы</label>
+                        <?php
+                            $materials = db_query("SELECT * FROM `materials`; ");
+                            while($material = $materials->fetch()) {?>
+                                <label class="checkbox"><input type="checkbox" id="<?php echo $material['value']?>"><?php echo $material['value']?></label>
+                            <?php }; ?>
                         </div>
                         <div class="field-view-more is-size-7 has-text-info">Показать еще</div>
                     </div>
 
-                    <div class="field" id="machine">
+                    <div class="field" id="machines">
                         <label class="label">Оборудование</label>
                         <div class="field-wrapper">
-                            <label class="checkbox"><input type="checkbox" id="ПТ">ПТ</label>
-                            <label class="checkbox"><input type="checkbox" id="МЛ">ML</label>
-                            <label class="checkbox"><input type="checkbox" id="STS">STS</label>
+                        <?php
+                            $machines = db_query("SELECT * FROM `machines`; ");
+                            while($machine = $machines->fetch()) {?>
+                                <label class="checkbox"><input type="checkbox" id="<?php echo $machine['value']?>"><?php echo $machine['value']?></label>
+                        <?php }; ?>
                         </div>
                     </div>
 
@@ -67,7 +81,7 @@
                             <div class="field-body">
                               <div class="field">
                                 <p class="control">
-                                  <input class="input  is-small" type="text" id="sizeLength">
+                                  <input class="input is-small" type="number" id="sizeLength">
                                 </p>
                               </div>
                             </div>
@@ -79,7 +93,7 @@
                             <div class="field-body">
                               <div class="field">
                                 <p class="control">
-                                  <input class="input  is-small" type="text" id="sizeWidth">
+                                  <input class="input is-small" type="number" id="sizeWidth">
                                 </p>
                               </div>
                             </div>
@@ -91,7 +105,7 @@
                             <div class="field-body">
                               <div class="field">
                                 <p class="control">
-                                  <input class="input  is-small" type="text" id="sizeHeight">
+                                  <input class="input is-small" type="number" id="sizeHeight">
                                 </p>
                               </div>
                             </div>
@@ -107,7 +121,7 @@
                             <div class="field-body">
                               <div class="field">
                                 <p class="control">
-                                  <input class="input  is-small" type="text" id="knifeSizeLength">
+                                  <input class="input  is-small" type="number" id="knifeSizeLength">
                                 </p>
                               </div>
                             </div>
@@ -119,7 +133,7 @@
                             <div class="field-body">
                               <div class="field">
                                 <p class="control">
-                                  <input class="input  is-small" type="text" id="knifeSizeWidth">
+                                  <input class="input  is-small" type="number" id="knifeSizeWidth">
                                 </p>
                               </div>
                             </div>
@@ -129,22 +143,17 @@
                     <div class="field" id="year">
                         <label class="label">Год</label>
                         <div class="field-wrapper-small">
-                            <label class="checkbox"><input type="checkbox" id="2021">2021</label>
-                            <label class="checkbox"><input type="checkbox" id="2020">2020</label>
-                            <label class="checkbox"><input type="checkbox" id="2019">2019</label>
-                            <label class="checkbox"><input type="checkbox" id="2018">2018</label>
-                            <label class="checkbox"><input type="checkbox" id="2017">2017</label>
-                            <label class="checkbox"><input type="checkbox" id="2016">2016</label>
-                            <label class="checkbox"><input type="checkbox" id="2015">2015</label>
-                            <label class="checkbox"><input type="checkbox" id="2014">2014</label>
-                            <label class="checkbox"><input type="checkbox" id="2013">2013</label>
+                        <?php for ($i=date('Y'); $i>2012; $i--) {?>
+                          <label class="checkbox"><input type="checkbox" id="<?php echo $i?>"><?php echo $i?></label>
+                          <?php }; ?>
+
                         </div>
                         <div class="field-view-more is-size-7 has-text-info">Показать еще</div>
                     </div>
 
                     <div class="field" >
                         <label class="label">Номер заказа</label>
-                        <input type="text" class="input is-small" id="ordernum">
+                        <input type="text" class="input is-small" id="orderNum">
                     </div>
 
                 </form>

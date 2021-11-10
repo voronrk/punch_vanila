@@ -17,7 +17,7 @@ input[type="checkbox"] {
     max-height:100%;
 }
 
-.field-view-more {
+.field-view-more, .field-add {
     cursor:pointer;
 }
 
