@@ -4,7 +4,6 @@ Array
         (
             [id] => 6
             [name] => Этикетка круглая
-            [product] => Этикетки
             [ordernum] => 0699
             [year] => 2019
             [sizelength] => 66.5
@@ -38,7 +37,6 @@ Array
         (
             [id] => 7
             [name] => Коробка прямоугольная
-            [product] => Коробки
             [ordernum] => 6230
             [year] => 2019
             [sizelength] => 120

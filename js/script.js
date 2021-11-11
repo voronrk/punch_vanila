@@ -35,6 +35,14 @@ function renderCards(arData, arFilter) {
     });
 };
 
+function renderArray(arData) {
+    let outString = '';
+    arData.forEach(item => {
+        outString += `${item}, `;
+    });
+    return outString.substring(0, outString.length-2);
+};
+
 function renderCard(data, arFilter) {
     if (data.filter(arFilter)) {
         const view = document.createElement('div');
@@ -48,13 +56,26 @@ function renderCard(data, arFilter) {
                 </figure>
                 <div class="media-content">
                     <div class="content">
-                        <p>
-                        <strong>${data.name}</strong>
-                        <br> Заказ № ${data.orderNum}/${data.year}
-                        <br> ${data.sizeWidth}х${data.sizeLength}х${data.sizeHeight} мм
-                        <br> Материал - ${data.materials[0]}
-                        <br> Машина - ${data.machines[0]}
-                        </p>
+                        <div class="has-text-weight-bold is-size-5">${data.name}</div>
+                        <div>${renderArray(data.products)}</div>
+                        <div class="columns">
+                            <div class="column">
+                                <span class="has-text-weight-bold">Заказ № ${data.orderNum}/${data.year}</span>
+                                <br> Материал: ${renderArray(data.materials)}
+                                <br> Машина: ${renderArray(data.machines)}
+                            </div>
+                            <div class="column">
+                                <span class="has-text-weight-bold">Размеры изделия</span>
+                                <br>Длина, мм: ${data.sizeLength}
+                                <br>Ширина, мм: ${data.sizeWidth}
+                                <br>Высота, мм: ${data.sizeHeight}
+                            </div>
+                            <div class="column">
+                                <span class="has-text-weight-bold">Размер по ножам</span>
+                                <br>Длина, мм: ${data.knifeSizeLength}
+                                <br>Ширина, мм: ${data.knifeSizeWidth}
+                            </div>
+                        </div>                        
                     </div>
                 </div>
             </article>
