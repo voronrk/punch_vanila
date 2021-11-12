@@ -1,6 +1,7 @@
 'use strict';
 
-import {getBase, Punch} from './back.js';
+import {getBase} from './back.js';
+import Punch from './punch.js';
 
 const viewMoreToggle = document.querySelectorAll('.field-view-more');
 const form = document.querySelector('#filter');
@@ -80,5 +81,5 @@ modal.addEventListener('click', (event) => {
     console.log(event.target.className);
     if ((event.target.classList.contains('modal-close')) || (event.target.classList.contains('modal-background'))) {
         modal.classList.remove('is-active');
-    }
+    };
 });

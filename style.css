@@ -30,3 +30,31 @@ input[type="checkbox"] {
     max-height:100% !important;
     width: auto !important;
 }
+
+.modal-arrow {
+    opacity:0;
+    position:absolute;
+    top:50%;
+    width:64px;
+    height:64px;
+    transition:opacity ease-in 0.2s;
+}
+
+.modal-arrow:hover {
+    opacity:0.2;
+}
+
+.arrow-left {
+    background-image: url('img/left.png');
+    background-repeat:no-repeat;
+    background-size:contain;
+    left:5px;
+}
+
+.arrow-right {
+    background-image: url('img/right.png');
+    background-repeat:no-repeat;
+    background-size:contain;
+    right:5px;
+}
+
