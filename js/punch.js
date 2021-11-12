@@ -18,17 +18,20 @@ export default class Punch {
 
     filter(arFilter) {
         let filter = true;
-        if (Object.keys(arFilter).length==0) {
+            if (Object.keys(arFilter).length==0) {
             return true;
         };
         for (let key in arFilter){
-            if ((typeof(this[key])=='string') || (typeof(this[key])=='number')){
+            if (typeof(this[key])=='string') {
                 filter = filter && (arFilter[key].indexOf(this[key])>-1)
+            };
+            if (typeof(this[key])=='number') {
+                filter = filter && (arFilter[key][0] <= this[key]*1.1) && (arFilter[key][0] >= this[key]*0.9)
             };
             if (typeof(this[key])=='object') {
                 let filterTmp = false;
                 for (let i=0;i<arFilter[key].length;i++) {
-                        filterTmp = filterTmp || (this[key].indexOf(arFilter[key][i])>-1);
+                    filterTmp = filterTmp || (this[key].indexOf(arFilter[key][i])>-1);
                 };
                 filter = filter && filterTmp;
             };
